@@ -1,0 +1,43 @@
+Ans1)
+#include<iostream>
+using namespace std;
+int main(){
+cout<<"Physics"<<endl<<"Wallah";
+return 0;
+}
+
+Ans2)
+#include<iostream>
+using namespace std;
+int main(){
+int x,y;
+x = 5;
+y = 5;
+cout<<x+y;
+ return 0;
+}
+
+Ans3)
+int  4 bytes.
+bool  1 bytes.
+ float  4 bytes.
+Ans4)
+Output 
+6  4
+Ans5)
+#include<iostream>
+using namespace std;
+int main(){
+float r = 10,pi = 3.1415,circumference;
+circumference = 2*pi*r;
+cout<<"The circumference is : "<<circumference;
+return 0;
+}
+
+Ans6)
+ 01Pwskills = no
+_FLOAT = yes
+ int = no 
+ FLOAT = yes 
+You will succeed = no
+
